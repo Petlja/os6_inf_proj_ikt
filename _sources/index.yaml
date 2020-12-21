@@ -1,44 +1,60 @@
-courseId: courseID 
-lang: en
-title: Petljadoc Course
+courseId: Istrazivacki_projekat
+lang: sr-Cyrl
+title: Истраживачки пројекат
 description:
-  willLearn: 
-    - Preview of Petljadoc course
-  requirements:
-    - Petljadoc
-    - Runestone
-    - Sphinx
-  toc:
-    - Intro to Petljadoc INDEX.yaml
-  externalLinks:  
-    - text: Sphinx Docs
-      href: https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html
-    - text: Petljadoc
-      href: https://github.com/Petlja/PetljaDoc/blob/master/README.md
-    - text: Runestone Interactive
-      href: https://github.com/RunestoneInteractive/overview
   longDescription: |
-    This is an example of a long description...
-  shortDescription: Shrot description
+    Овај курс је намењен ученицима 5. разреда основне школе за предмет Информатика и рачунарство у току првог полугодишта. 
+    Курс је подељен на три часа током којих ћете се упознати са фазама израде истраживачког пројекта. 
+    
+    Поред рада у школи, курс се може пролазити и самостално.
+  willLearn: 
+    - научићеш као да одабереш тему за пројекат;
+    - научићеш како да радиш у тиму;
+  requirements:
+    - Рачунар
+    - Интернет
+  
+  toc:
+    - Током наредна три часа, радићете истраживачки пројекат који ће повезати све оно што сте до сада радили са другим школским предметима. Као изворе информација користићете интернет, али и уџбенике. 
 
+  shortDescription: a
 
 lessons:
-  - title: Lesson 1
-    guid: c2c651cd-53d9-4a3d-ba4f-650b8422f0bc
-    description: Your first lesson. Description is not required attribute
-    folder: 1_Lesson
+  - title: Истраживачки пројекат
+    folder: Istrazivacki_projekat
+    guid: 9112c465-8de6-4675-a90a-190cab99742d
+    description: Предлекција за ИКТ
     activities:
       - type: reading
-        title: Intro
-        file: intro.rst 
+        title: Истраживачки пројекат
+        file: О_пројекту.rst
+        description: #opciono
+        guid: ac1e50d7-b5d3-4b3b-82d5-da1b2924d221
+    
+  - title: Истраживачки пројекат за шести разред
+    guid: 6b5aa205-a74c-4bf7-878d-eea229030b8f
+    description: Пројекат за шести разред
+    folder: Projekat_VI_razred
+    activities:
+      - type: reading
+        title: Увод
+        file: О_пројекту_VI.rst 
         description: #Optional
-        guid: 71c00155-f7f3-410d-8019-e88d22cb7f01
-      - type: video
-        title: Video activity for your lesson
-        decription: Nice video
-        url: https://www.youtube.com/watch?v=2KYuzJKemXw
-        guid: 978760d0-a133-4ffd-af30-85fdb38aa384
-      - type: quiz
-        title: Test your students
-        file: quiz.rst
-        guid: dd96bf63-e558-4540-95a6-00b96e45e3ef
+        guid: 70412118-0c80-4096-8acd-f0e248632934
+      - type: reading
+        title: Одабир теме и сарадника
+        file: Одабир_теме_и_сарадника_VI.rst 
+        description: #Optional
+        guid: 1b874865-029a-40b2-b93a-49add4f6abb4
+      - type: reading
+        title: Рад на пројекту
+        file: Рад_на_пројекту_VI.rst 
+        description: #Optional
+        guid: 2e15472c-6f7a-4c1e-bfcb-eb6b39955d7e
+      - type: reading
+        title: Представљање пројекта
+        file: Представљање_пројекта_VI.rst 
+        description: #Optional
+        guid: aba2fe94-8d01-453a-9030-d7703aeca69d
+  
+  

@@ -16,5 +16,4 @@
     :hidden:
     :maxdepth: 3
 
-    Истраживачки пројекат <Istrazivacki_projekat/index>
     Истраживачки пројекат за шести разред <Projekat_VI_razred/index>

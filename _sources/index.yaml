@@ -20,17 +20,7 @@ description:
   shortDescription: a
 
 lessons:
-  - title: Истраживачки пројекат
-    folder: Istrazivacki_projekat
-    guid: 9112c465-8de6-4675-a90a-190cab99742d
-    description: Предлекција за ИКТ
-    activities:
-      - type: reading
-        title: Истраживачки пројекат
-        file: О_пројекту.rst
-        description: #opciono
-        guid: ac1e50d7-b5d3-4b3b-82d5-da1b2924d221
-    
+      
   - title: Истраживачки пројекат за шести разред
     guid: 6b5aa205-a74c-4bf7-878d-eea229030b8f
     description: Пројекат за шести разред

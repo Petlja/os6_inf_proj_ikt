@@ -1,16 +1,15 @@
-# Programiranje za prvi razred specijalizovanih IT odeljenja 
+# Projektna nastava za šesti razred osnovne škole IKT
 
-Ovaj repozitorijum posvećen je kursu za Programiranje za prvi razred specijalizovanih IT odeljenja. 
+Ovaj repozitorijum posvećen je priručniku za Projektnu nastavu za šesti razred osnovne škole IKT . 
 
-Kurs je na Petljom portalu dotupan ovde: [https://petlja.org/kurs/369/0](https://petlja.org/kurs/369/)
+Kurs je na Petljom portalu dotupan ovde: [https://github.com/Petlja/VI_projektniZadatak](https://github.com/Petlja/VI_projektniZadatak)
 
-Kurs možete itegrisati u svoj LMS koristeći SCORM pakete koji se mogu preuzeti sa: https://github.com/Petlja/specit1_prog/releases
 
 ## Konverzija u *HTML*
 
 U ovom repozitorijumu se nalazi izvorna forma sadržaja koju pomoću alata [PetljaDoc](https://github.com/Petlja/PetljaDoc) možete konvertovati u skup *HTML* strana.
 
-Na https://petlja.github.io/gim1_rac_prog možete pregledati na taj način dobijene *HTML* strane.
+Na https://petlja.github.io/os6_inf_proj_ikt možete pregledati na taj način dobijene *HTML* strane.
 
 ## License
 

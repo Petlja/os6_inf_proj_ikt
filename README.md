@@ -2,7 +2,7 @@
 
 Ovaj repozitorijum posvećen je priručniku za Projektnu nastavu za šesti razred osnovne škole IKT . 
 
-Kurs je na Petljom portalu dotupan ovde: [https://github.com/Petlja/VI_projektniZadatak](https://github.com/Petlja/VI_projektniZadatak)
+Kurs je na Petljinom portalu dotupan ovde: [https://github.com/Petlja/VI_projektniZadatak](https://github.com/Petlja/VI_projektniZadatak)
 
 
 ## Konverzija u *HTML*
